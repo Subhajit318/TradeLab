@@ -1,0 +1,9 @@
+Performance Report
+============================
+
+Strategy Return   : 13.29%
+Buy & Hold Return : 74.26%
+Annual Return     : 2.58%
+Volatility        : 15.33%
+Sharpe Ratio      : 0.24
+Maximum Drawdown  : -32.95%
