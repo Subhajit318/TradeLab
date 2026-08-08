@@ -1,4 +1,4 @@
-# Trading Strategy Backtester
+# TradeLab
 
 ## Overview
 This project is a Python-based trading strategy backtester that analyzes historical stock market data using a Moving Average Crossover strategy. It compares the performance of the strategy with a simple Buy & Hold approach and generates visualizations and performance metrics.
